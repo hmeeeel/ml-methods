@@ -1,4 +1,4 @@
-# Machine Learning Methods
+# Machine Learning Methods in BSUIR
 
 ## About the course
 
@@ -36,29 +36,49 @@ Variant: **25**
 
 **Goal:** perform exploratory data analysis (EDA) and data preprocessing.
 
-**Dataset:** [Austin Animal Center Intakes]
+**Dataset:** Austin Animal Center Intakes
 
 ---
 
 ### Lab 03 — Gradient Descent Algorithm
 
-*In progress.*
+**Goal:** train a linear regression model (using batch and stochastic gradient descent) and investigate the effect of L1 and L2 regularization on the weights.
+
+**Dataset:** sklearn.datasets.make_regression
+
+---
 
 ### Lab 04 — Classification
 
-*In progress.*
+**Goal:** learning binary classification methods using logistic regression models, support vector machines (SVM), and decision trees (CART) as examples.
+
+**Dataset:** Bankloan.csv
+
+---
 
 ### Lab 05 — Decision Trees
 
-*In progress.*
+**Goal:** implement the calculation of the Gini index, information gain, and stopping criteria; calculate the model quality metric; and test the performance of the custom tree
+
+**Dataset:** sklearn.datasets.make_classification
+
+---
 
 ### Lab 06 — Ensemble Models
 
-*In progress.*
+**Goal:** examine ensemble machine learning methods—bagging (using random forests as an example) and boosting (using gradient boosting as an example)
+
+**Dataset:** load_breast_cancer
+
+---
 
 ### Lab 07 — Clustering and Dimensionality Reduction
 
-*In progress.*
+**Goal:** create clustering models using various clustering algorithms (DBSCAN, hierarchical clustering, k-means)
+
+**Dataset:** sklearn.datasets.wine
+
+---
 
 ### Lab 08 — Convolutional Neural Networks
 
